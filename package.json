@@ -1,0 +1,21 @@
+{
+  "name": "getting-started-vue-sfcs",
+  "version": "1.0.0",
+  "description": "The bare minimum for using Vue single file components.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "keywords": [],
+  "author": "Travis Horn (https://travishorn.com)",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.0.5",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "postcss": {}
+}
