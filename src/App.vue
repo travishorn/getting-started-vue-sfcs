@@ -9,7 +9,7 @@
 import PersonGreeter from './components/PersonGreeter.vue'
 
 export default {
-  name: 'app',
+  name: 'App',
   components: {
     PersonGreeter
   }
