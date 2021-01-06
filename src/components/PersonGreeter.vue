@@ -4,6 +4,7 @@
 
 <script>
 module.exports = {
+  name: 'PersonGreeter',
   props: ['personName']
 }
 </script>
